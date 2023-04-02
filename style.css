@@ -101,6 +101,8 @@ hr {
 }
 
 .footer-link {
+    top: 60px;
+    position: relative;
     color: #11999E;
     margin: 1rem;
 }
