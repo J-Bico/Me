@@ -106,6 +106,8 @@ hr {
 }
 
 .cred {
+    top: 60px;
+    position: relative;
     color: #EAF6F6;
 }
 
